@@ -1,0 +1,29 @@
+{
+  "name": "angular-boilerplate-starter",
+  "description": "Simple custom angular 1x starter",
+  "main": "index.php",
+  "authors": [
+    "hmongouachon <hello@hmongouachon.com>"
+  ],
+  "license": "mit",
+  "keywords": [
+    "angular",
+    "boilerplate"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "vendors",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "1.6.6",
+    "ngstorage": "0.3.11",
+    "angular-sanitize": "1.6.6",
+    "angular-animate": "1.6.6",
+    "angular-ui-router": "1.0.7"
+  }
+}

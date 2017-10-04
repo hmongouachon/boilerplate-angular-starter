@@ -1,0 +1,23 @@
+{
+  "name": "angular-boilerplate-starter",
+  "version": "1.0.0",
+  "description": "Simple custom angular 1x starter",
+  "main": "index.php",
+  "dependencies": {
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt": "^1.0.1",
+    "grunt-ng-annotate": "^3.0.0",
+    "grunt-contrib-uglify": "^2.0.0"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-uglify": "^2.0.0",
+    "grunt-ng-annotate": "^3.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hadrien Mongouachon",
+  "license": "MIT"
+}
